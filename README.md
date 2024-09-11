@@ -1,6 +1,6 @@
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/44357316-c756-4c4e-9dc1-de138db65db9">
+# Sentiment Analysis and Recommendation Model
 
-**Sentiment Analysis and Recommendation Model**
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/44357316-c756-4c4e-9dc1-de138db65db9">
 
 - Implemented topic models using sentiment analysis to predict the review star rating and built recommendation model using Mahout’s ALS algorithm to improve suggestions with 87.4% accuracy.
 
